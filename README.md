@@ -1,6 +1,6 @@
 - 👋 Samfrodo says "Hi"
 
-![Samuel](https://twitter.com/adeyemifrodo/status/1361077382187261956?s=20&t=nWj4c2-LohAyoNkWAHVd_A)
+<a href="https://ibb.co/WkNR9FR"><img src="https://i.ibb.co/fkVTRtT/IMG-20210214-235012.jpg" alt="IMG-20210214-235012" border="0"></a>
 
 # ADEYEMI SAMUEL ADEWALE (SAMFRODO)
 ## Software Engineering Student
@@ -30,3 +30,11 @@ My certifications in view include:
   -    4.  Improving Med-Tech in Africa
 
 Reach out to me on
+
+###### [Twitter](https://twitter.com/adeyemifrodo?t=6JGpNMULaRPkxUWk-9pGug&s=09) ![image](https://user-images.githubusercontent.com/106933402/185825114-48aecc27-08d6-42fe-a77a-811439356247.png)
+
+###### [Instagram](https://www.instagram.com/adeyemifrodo/) ![image](https://user-images.githubusercontent.com/106933402/185825340-cc014407-6242-45e4-8bd7-85f7cba492d4.png)
+
+###### [Facebook](https://www.facebook.com/SAMFRODO100) (![image](https://user-images.githubusercontent.com/106933402/185828761-a9a56af0-2e4d-404a-849a-13e1d9db2dd1.png)
+
+###### [LinkedIn](https://www.linkedin.com/in/samuel-adeyemi-a50055160) ![image](https://user-images.githubusercontent.com/106933402/185828055-400303e2-1888-4624-af76-943d18a37288.png) 
