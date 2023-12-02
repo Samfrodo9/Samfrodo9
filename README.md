@@ -42,7 +42,7 @@ My certifications in view include:
 
 <h4 align="center"> Reach out to me on </h4>
 
-<div align="center" style="display: flex; justify-content: space-between; max-width: 400px; margin: 0 auto;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
   <div style="text-align: center;">
     <a href="https://twitter.com/adeyemifrodo?t=6JGpNMULaRPkxUWk-9pGug&s=09">
@@ -77,6 +77,7 @@ My certifications in view include:
   </div>
 
 </div>
+
 
 
 <h4> Have a great day ahead, thanks for reading </h4>
