@@ -1,7 +1,11 @@
 - 👋 Samfrodo says "Hi"
 Welcome to my Space;
 
+<div align="center>
+
 <a href="https://ibb.co/SXGpPkH"><img src="https://i.ibb.co/N6bzs0f/DSC-0183.jpg" alt="DSC-0183" border="20"></a>
+
+</div>
 
 # ADEYEMI SAMUEL ADEWALE (SAMFRODO)
 ## Software Engineering Student
