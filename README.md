@@ -1,14 +1,14 @@
 - 👋 Samfrodo says "Hi"
 Welcome to my Space;
 
-<a href="https://ibb.co/WkNR9FR"><img src="https://i.ibb.co/fkVTRtT/IMG-20210214-235012.jpg" alt="IMG-20210214-235012" border="0"></a>
+<a href="https://ibb.co/WkNR9FR"><img src="https://ibb.co/XVRDqkC" alt="IMG-20210214-235012" border="0"></a>
 
 # ADEYEMI SAMUEL ADEWALE (SAMFRODO)
 ## Software Engineering Student
 ### Full stack developer , Full stack Engineer in view
 #### Available for collaborations on hands-on projects
-I am a Software Engineering Student of [ALX AFRICA](https://www.alxafrica.com)
-I began my Tech journey in June 2022 when I got accepted for the one year intensive
+I am a Software Engineering currently a Student of [ALX AFRICA](https://www.alxafrica.com)
+I began my Tech journey in 2022 when I got accepted for the one year intensive
 [Software Engineering](https://www.alxafrica.com/programme_post/full-stack-software-engineer) training program by ALX AFRICA. As a result, I've had access to a lot of upbuilding resources and gained experiences as an aspiring Software Enginner.
 I've collaborated on projects, done tasks within deadlines, taken quizzes and surveys as a neccesary prerequisite to get fully certified.
 
